@@ -1,0 +1,80 @@
+body {
+	font-size: 15px;
+}
+
+h1 {
+	font-family:'Big Shoulders Display', cursive;
+	color: #f2f2f2;
+	text-transform: uppercase;
+	padding-bottom: 20px;
+}
+
+p {
+	font-family: 'Lexend Deca';
+	color: #ffffff;
+	padding-bottom: 60px;
+	padding-right: 30px;
+
+}
+
+img {
+	padding-bottom: 40px;
+}
+
+.container {
+	margin-top: 50px;
+	
+}
+
+.row {
+	margin: 0 50px;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	
+}
+
+.sedans {
+	background-color: #e38826; 
+	padding: 50px 80px 50px 50px;
+
+}
+
+.suvs {
+	background-color: #006970;
+	padding: 50px 80px 50px 50px;
+}
+
+.luxury {
+	background-color: #004241;
+	padding: 50px 80px 50px 50px;
+}
+
+button {
+	font-family: 'Lexend Deca', sans-serif;
+	background-color: #fff;
+	padding: 12px 28px;
+	border-radius: 20px;
+	border: none;
+}
+
+.btn-1 {
+	color: #e38826;
+}
+
+.btn-2 {
+	color: #006970;
+}
+
+.btn-3 {
+	color: #004241;
+}
+
+
+.attribution { 
+	font-size: 11px; 
+	text-align: center;
+	margin-top: 30px;
+}
+
+.attribution a { 
+	color: hsl(228, 45%, 44%); 
+}
